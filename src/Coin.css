@@ -46,14 +46,14 @@ width: 150px;
     width: 110px;
 }
 .coin-volume {
-    width: 230px;
+    width: 200px;
     
 }
 .coin-marktcap {
-    width: 155px;
+    width: 240px;
 }
 .coin-percent{
-    width: 100%;
+    width: 80%;
 }
 .red{
   color:  #f00606;
